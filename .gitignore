@@ -8,3 +8,5 @@ venv
 t8.shakespeare.txt
 # Ignore output file
 word_count.json
+# Ignore target folder
+target

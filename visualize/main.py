@@ -70,7 +70,6 @@ def filter_words(data: dict, minimum_length: int = 0):
 
 print("Write filepath and name (include filetype): ")
 file_path = str(input())
-minimum_length = 8
 
 logging.info(f"Reading and loading JSON file: {file_path}")
 
