@@ -1,0 +1,10 @@
+# Ignore virtual environemt 
+venv
+# Ignore Intellij configuration
+.idea
+# Ignore VS code settings
+.vscode
+# Ignore text file with data
+t8.shakespeare.txt
+# Ignore output file
+word_count.json
